@@ -1,3 +1,4 @@
+<img width="1592" height="816" alt="lumen-preview" src="https://github.com/user-attachments/assets/f718a66f-36ea-49b9-9dea-afdebbd4064a" />
 # Lumen
 
 > I got tired of bad reading environments. So I built my own.
@@ -126,3 +127,5 @@ That's a valid way to build things.
 
 *Built by [Om Bharati](https://ombharati.github.io) — because markdown 
 deserves a better home.*
+
+![Lumen Preview](<img width="1592" height="816" alt="lumen-preview" src="https://github.com/user-attachments/assets/f718a66f-36ea-49b9-9dea-afdebbd4064a" />)
