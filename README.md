@@ -62,6 +62,17 @@ No accounts. No cloud. No noise. Paste your markdown and read.
 - Stopwatch, timer, and alarm for study sessions
 - All state persists locally, nothing leaves your browser
 
+**Interaction & Editing**
+- Interactive markdown checklists sync with raw markdown source
+- Paste modal for quick document input
+- Undo / redo history stack (up to 50 states)
+- Keyboard shortcuts for focus mode, reset, and modal actions
+
+**Import / Export**
+- Import `.md` files directly
+- Export as PDF, HTML, Markdown, or Plain Text
+- Load remote markdown via URL parameter (`?file=`)
+
 &nbsp;
 
 ## Design
@@ -129,4 +140,14 @@ That's a valid way to build things.
 *Built by [Om Bharati](https://ombharati.github.io) — because markdown 
 deserves a better home.*
 
-![Lumen Preview](<img width="1592" height="816" alt="lumen-preview" src="https://github.com/user-attachments/assets/f718a66f-36ea-49b9-9dea-afdebbd4064a" />)
+![Lumen Preview](https://github.com/user-attachments/assets/f718a66f-36ea-49b9-9dea-afdebbd4064a)
+
+## Updates & Evolution
+
+Lumen is not a static release.
+
+It started as a personal solution to a broken reading experience, but it continues to evolve as I refine how I use it myself. The project is periodically redesigned, adjusted, and improved as new ideas emerge and real usage reveals what needs fixing.
+
+Bug fixes, UI refinements, and interaction improvements are integrated over time to keep the system stable and comfortable for long reading sessions. Some changes are small and continuous, others involve broader redesigns of specific parts of the experience.
+
+The core idea stays the same — a clean, distraction-free Markdown reading environment — but the implementation is intentionally fluid. Lumen grows with use.
